@@ -1,5 +1,5 @@
 # Olá, eu sou Athos Gustavo 👋</h1>
-*"Todos os dias desbloquando um novo level do mundo da tecnologia"* 💻
+### *"Todos os dias desbloqueando um novo level do mundo da tecnologia"* 💻
 <br><br>
 
 <img text-align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AthosGustavo&theme=aura&layout=compact" />
